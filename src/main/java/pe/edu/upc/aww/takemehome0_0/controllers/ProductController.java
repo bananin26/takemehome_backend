@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 @RestController
-@RequestMapping("Products")
+@RequestMapping("/Products")
 public class ProductController {
     @Autowired
     private IProductService pS;
@@ -47,7 +47,7 @@ public class ProductController {
         return dto;
     }
 
-    @PostMapping("/search :)")
+    @PostMapping("/search")
     public List<ProductDTO> search(@RequestParam("nameProduct") String destinationAddress){
         return pS.findByNameProduct(destinationAddress).stream().map(x->{
             ModelMapper m= new ModelMapper();

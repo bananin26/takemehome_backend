@@ -29,13 +29,14 @@ public class CategoryController {
             return m.map(x,CategoryDTO.class);
         }).collect(Collectors.toList());
     }
-    @PostMapping("/search :)")
+    @PostMapping("/search")
     public List<CategoryDTO> search(@RequestParam("nameCategory") String nameCategory){
         return cS.findByNameCategory(nameCategory).stream().map(x->{
             ModelMapper m= new ModelMapper();
             return m.map(x,CategoryDTO.class);
         }).collect(Collectors.toList());
     }
+
     @PutMapping
     public void change(@RequestBody CategoryDTO dto){
         ModelMapper m = new ModelMapper();

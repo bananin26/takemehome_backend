@@ -51,7 +51,7 @@ public class ForumController {
         fS.insert(f);
     }
 
-    @PostMapping("/search :)")
+    @PostMapping("/search")
     public List<ForumDTO> search(@RequestBody LocalDate date){
         return fS.findByDate(date).stream().map(x->{
             ModelMapper m= new ModelMapper();

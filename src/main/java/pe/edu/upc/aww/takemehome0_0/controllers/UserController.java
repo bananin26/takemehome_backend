@@ -41,6 +41,7 @@ public class UserController {
     public void delete(@PathVariable("id") Integer id){
         uS.delete(id);
     }
+
     @GetMapping("/{id}")
     public UserDTO to_listId(@PathVariable ("id") Integer id) {
         ModelMapper m = new ModelMapper();
@@ -48,7 +49,7 @@ public class UserController {
         return dto;
     }
 
-    @PostMapping("/search :)")
+    @PostMapping("/search")
     public List<UserDTO> search(@RequestBody LocalDate date){
         return uS.findByBirthday(date).stream().map(x->{
             ModelMapper m= new ModelMapper();

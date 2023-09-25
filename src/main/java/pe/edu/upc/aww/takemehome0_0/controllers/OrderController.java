@@ -18,7 +18,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 @RestController
-@RequestMapping("Orders")
+@RequestMapping("/Orders")
 public class OrderController {
     @Autowired
     private IOrderService oR;
@@ -50,7 +50,7 @@ public class OrderController {
         return dto;
     }
 
-    @PostMapping("/search :)")
+    @PostMapping("/search")
     public List<OrderDTO> search(@RequestParam("address") String destinationAddress){
         return oR.findByDestinationAddress(destinationAddress).stream().map(x->{
             ModelMapper m= new ModelMapper();
