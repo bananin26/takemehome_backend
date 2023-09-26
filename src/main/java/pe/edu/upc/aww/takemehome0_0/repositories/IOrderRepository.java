@@ -13,7 +13,7 @@ public interface IOrderRepository extends JpaRepository<Order,Integer> {
 
     @Query(value = "select u.name, count(o.id_order)\n" +
             "from users u inner join orders o\n" +
-            "on u.id_user=o.id_user\n" +
+            "on u.id=o.id_user\n" +
             "group by u.name\t", nativeQuery = true)
     public List<String[]> totalPurchasesByPerson();
 }
