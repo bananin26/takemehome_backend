@@ -35,7 +35,7 @@ public class ProductServiceImplement implements IProductService {
 
     @Override
     public List<Product> findByNameProduct(String nameProduct) {
-        return pR.findByNameProduct( nameProduct);
+        return pR.findByNameProduct(nameProduct);
     }
 
     @Override

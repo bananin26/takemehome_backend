@@ -48,8 +48,8 @@ public class ProductController {
     }
 
     @PostMapping("/search")
-    public List<ProductDTO> search(@RequestParam("nameProduct") String destinationAddress){
-        return pS.findByNameProduct(destinationAddress).stream().map(x->{
+    public List<ProductDTO> search(@RequestBody String nameProduct){
+        return pS.findByNameProduct(nameProduct).stream().map(x->{
             ModelMapper m= new ModelMapper();
             return m.map(x,ProductDTO.class);
         }).collect(Collectors.toList());

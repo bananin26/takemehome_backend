@@ -51,7 +51,7 @@ public class OrderController {
     }
 
     @PostMapping("/search")
-    public List<OrderDTO> search(@RequestParam("address") String destinationAddress){
+    public List<OrderDTO> search(@RequestBody String destinationAddress){
         return oR.findByDestinationAddress(destinationAddress).stream().map(x->{
             ModelMapper m= new ModelMapper();
             return m.map(x,OrderDTO.class);
