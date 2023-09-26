@@ -18,7 +18,7 @@ public interface IUserRepository extends JpaRepository<User,Integer> {
             "\n" +
             "  from users u inner join message m \n" +
             "\n" +
-            "  on u.id_user=m.user_send_id\n" +
+            "  on u.id=m.user_send_id\n" +
             "\n" +
             "  group by u.name", nativeQuery = true)
     public List<String[]> quantityMessageSendByPerson();
@@ -27,7 +27,7 @@ public interface IUserRepository extends JpaRepository<User,Integer> {
             "\n" +
             "  from users u inner join message m \n" +
             "\n" +
-            "  on u.id_user=m.user_receives_id\n" +
+            "  on u.id=m.user_receives_id\n" +
             "\n" +
             "  group by u.name", nativeQuery = true)
     public List<String[]> quantityMessageReceiveByPerson();
