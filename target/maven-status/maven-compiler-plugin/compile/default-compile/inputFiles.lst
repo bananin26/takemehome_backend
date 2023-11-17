@@ -1,69 +1,69 @@
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceInterfaces\INotificationService.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\entities\Forum.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\security\WebSecurityConfig.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\TotalPurchasesByUserDTO.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\entities\Role.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\security\JwtAuthenticationEntryPoint.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\NotificationDTO.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\repositories\IProductRepository.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceInterfaces\IOrderService.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceimplements\JwtUserDetailsService.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\MessageDTO.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\repositories\IMessageRepository.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\repositories\IRoleRepository.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceInterfaces\IProductService.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceimplements\ForumServiceImplement.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\controllers\NotificationController.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\repositories\IRecordRepository.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\repositories\ICategoryRepository.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceimplements\RecordServiceImplement.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\ServletInitializer.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\controllers\OrderController.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\controllers\RecordController.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\UserDTO.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceInterfaces\IRecordService.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\repositories\INotificationRepository.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\repositories\IOrderRepository.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\MessageByUserDTO.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\entities\User.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\controllers\UserController.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\CategoryDTO.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\security\JwtRequestFilter.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\controllers\ForumController.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\controllers\MessageController.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\ForumDTO.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\entities\Message.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\RoleDTO.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceimplements\NotificationServiceImplement.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceimplements\ProductServiceImplement.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\ProductDTO.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceimplements\RoleServiceImplement.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\entities\Order.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceInterfaces\IRolesService.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceimplements\MessageServiceImplement.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\security\JwtRequest.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceInterfaces\ICategoryService.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\RecordDTO.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\TotalProductForUserDTO.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\controllers\JwtAuthenticationController.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\OrderDTO.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\security\JwtTokenUtil.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceimplements\CategoryServiceImplement.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\PointsDTO.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\repositories\IForumRepository.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceInterfaces\IUserService.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceInterfaces\IForumService.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceInterfaces\IMessageService.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\repositories\IUserRepository.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceimplements\OrderServiceImplement.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\ListPricesGreaterThan1000DTO.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\entities\Record.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\entities\Product.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\controllers\ProductController.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\showDescriptionDTO.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\entities\Notification.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\TakemeHome00Application.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\controllers\CategoryController.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\entities\Category.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\security\JwtResponse.java
-D:\Mabel\Proyecto Nuevo\TakemeHome0_0\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceimplements\UserServiceImplement.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\controllers\CategoryController.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\OrderDTO.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\UserDTO.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\entities\Forum.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\controllers\NotificationController.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceimplements\NotificationServiceImplement.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\repositories\ICategoryRepository.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\controllers\ProductController.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceimplements\RoleServiceImplement.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceimplements\JwtUserDetailsService.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\security\JwtAuthenticationEntryPoint.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceInterfaces\IProductService.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\controllers\MessageController.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\NotificationDTO.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceInterfaces\IRolesService.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\controllers\UserController.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\TotalProductForUserDTO.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceInterfaces\ICategoryService.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\security\JwtTokenUtil.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceInterfaces\IOrderService.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\ServletInitializer.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\repositories\IProductRepository.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\entities\Product.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\controllers\OrderController.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceimplements\RecordServiceImplement.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\RecordDTO.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceInterfaces\IUserService.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceInterfaces\IForumService.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\security\JwtResponse.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\MessageByUserDTO.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\showDescriptionDTO.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\repositories\IRecordRepository.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\entities\Order.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\repositories\IRoleRepository.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceInterfaces\IRecordService.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\repositories\IUserRepository.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\ForumDTO.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\entities\Role.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceInterfaces\INotificationService.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\entities\Message.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\ListPricesGreaterThan1000DTO.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\RoleDTO.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\TakemeHome00Application.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\repositories\IForumRepository.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceimplements\MessageServiceImplement.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceInterfaces\IMessageService.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceimplements\CategoryServiceImplement.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceimplements\UserServiceImplement.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\security\WebSecurityConfig.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\CategoryDTO.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\controllers\ForumController.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceimplements\OrderServiceImplement.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\security\JwtRequest.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\MessageDTO.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\TotalPurchasesByUserDTO.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\repositories\INotificationRepository.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceimplements\ProductServiceImplement.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\serviceimplements\ForumServiceImplement.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\repositories\IOrderRepository.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\ProductDTO.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\controllers\JwtAuthenticationController.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\dtos\PointsDTO.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\repositories\IMessageRepository.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\entities\Record.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\controllers\RecordController.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\entities\User.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\entities\Category.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\entities\Notification.java
+C:\Users\USER\Desktop\Nueva carpeta (2)\Nueva carpeta\takemehomeoficial-1\takemehome_backend\src\main\java\pe\edu\upc\aww\takemehome0_0\security\JwtRequestFilter.java
